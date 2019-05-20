@@ -16,3 +16,4 @@
 
 #### 相关操作记录
 - service grafana-server status
+- systemctl restart grafana-server
