@@ -5,4 +5,4 @@
 
 ## 大流量性能指标
 - QPS，Query Per Second，每秒查询率
-- PV，Page View，页面访问量，比如日均PV
+- PV，Page View，页面访问量，比如日均PV量
