@@ -5,7 +5,7 @@
 > 运行centos指令，shell和exec(可执行,/usr/bin/\*)两种方式运行.
 
 - ADD
-> 将本地文件拷贝到docker image中
+> 将本地文件拷贝到docker image中，。
 
 
 ### 组件
