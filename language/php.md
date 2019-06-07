@@ -6,3 +6,9 @@
 - 如何调用静态类的方法
 
 ## SOLID原则
+
+
+# debug
+## 问题列表
+- 浏览器提示500，如何将造成500的debug info展示出来?
+> 将php.ini的display_errors = On打开.
