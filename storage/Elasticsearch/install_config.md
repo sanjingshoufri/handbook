@@ -1,11 +1,7 @@
 # 启动
-- bin/*，一些常用的工具，某些工具不能以root身份运行，su + root.
+- bin/，一些常用的工具，某些工具不能以root身份运行，su + root.
+    - ./elasticsearch-plugin install -h  查看可以安装的plugins.
+    - ./elasticsearch-plugin install file:///home/download/license-2.4.6.zip 安装插件
 
-
-
-# 使用
-curl与127.0.0.1:9200通信.
-
-# 操作案例
-- 将一个对象写入到es中.
+# 监控工具
 - 
