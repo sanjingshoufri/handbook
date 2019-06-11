@@ -1,4 +1,6 @@
 # 服务器上java配置
+> jdk8不需要特意安装JRE，会自带JRE.
+
 - JDK
     - /usr/lib/jvm
 
