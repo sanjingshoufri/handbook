@@ -6,6 +6,7 @@
 - 管道：
 - SCM：Source Code Manage
 - 构建：
+- CVS：C/S系统，常用的代码版本控制软件.
 
 ## 插件
 
@@ -14,6 +15,8 @@
 - 背景：代码同时作业在san3er和tanner上.
 
 ### Jenkins应用
+> java -jar jenkins.war --httpPort=8080
+
 - 修改密码
 - 任务类型
     - 流水线：
@@ -23,4 +26,6 @@
 #### 创建一个流水线
 - 基本信息
 - 构建触发器
+
+
 - 构建环境
