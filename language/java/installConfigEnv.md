@@ -10,10 +10,3 @@
     
 # ENV
 > 
-
-# 源码结构
-- /bin，
-- /src，
-
-# Java
-## Java SE

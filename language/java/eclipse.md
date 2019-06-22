@@ -14,7 +14,7 @@
 
 ## frequently operation
 - 项目右键出menu，Build Path，.
-
+- 查看import包路径，右键Declarations -> Project.
 
 ## view
 - navigator：项目列表
