@@ -5,6 +5,9 @@
 - 强音削弱音，强S N L，弱t d th
 - of/have/ve + 辅音,of 后面的v略读,.
 
+#### 消音单词
+- environment  
 
 ### 连读
 - 
+
