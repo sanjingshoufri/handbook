@@ -18,6 +18,8 @@
 - 任务类型
     - 流水线：
     - 自由风格：
+- linux后台运行：nohup java -jar jenkins.war --httpPort=8080 
+
 
 
 #### 创建一个流水线
