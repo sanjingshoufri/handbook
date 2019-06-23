@@ -13,7 +13,7 @@
 
 
 ## frequently operation
-- 项目右键出menu，Build Path，.
+- 项目右键出menu，Build Path，如果找不到它，在头部菜单找出Project Explore.
 - 查看import包路径，右键Declarations -> Project.
 
 ## view
