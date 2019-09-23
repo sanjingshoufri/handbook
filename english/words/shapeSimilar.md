@@ -14,3 +14,10 @@
 ## I
 - inter
     - interfere 干涉，干预，介入 
+
+
+
+## R
+- Recurse and 
+    - Recurse，递归、递回
+    - 
