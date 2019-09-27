@@ -8,3 +8,13 @@
 
 - 强制拉取到本地
 git fetch --all && git reset --hard origin/master && git pull
+
+
+### 分支
+- 提交到远程分支
+    - git push origin develop:testing
+    - git push origin develop:pro
+
+- 查看远程分支
+    - git branch -a;
+

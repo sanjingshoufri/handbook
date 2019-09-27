@@ -1,7 +1,21 @@
-# git
+# 相关概念
 
-## 相关概念
-- version： 以remote origin作为标准，即为当前版本.
-    - version collasion：当local work space落后
+## 理解概念
+- HEAD：指针
+- ORIGIN：远程
+
+### 版本库：
+> 如何理解一个版本?
+
 
 - Fast-forward：
+
+### 代码放置
+    - workspace[working tree]
+    - stage，index，git add
+    - branch，git commit
+
+
+## git流
+- 
+- 
