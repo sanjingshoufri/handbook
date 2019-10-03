@@ -18,3 +18,12 @@ git fetch --all && git reset --hard origin/master && git pull
 - 查看远程分支
     - git branch -a;
 
+- 切换分支
+    - 
+
+- 分支合并
+    - git merge; 
+
+- 分支状态
+       
+- 创建分支
