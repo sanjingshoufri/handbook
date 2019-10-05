@@ -22,8 +22,10 @@ git fetch --all && git reset --hard origin/master && git pull
     - 
 
 - 分支合并
+    - 分支A合并分支B，将分支B上不同的内容更新到分支A上(想想compare工具)。 
     - git merge; 
 
 - 分支状态
        
 - 创建分支
+    - 
