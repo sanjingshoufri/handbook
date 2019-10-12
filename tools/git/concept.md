@@ -2,6 +2,10 @@
 
 ## 理解概念
 - HEAD：指针
+    - detached head，是一种HEAD指针指向了某一个具体的 commit id，而不是分支的情况。
+    - 
+    - 
+
 - ORIGIN：远程
 
 ### 版本库：
@@ -9,6 +13,7 @@
 
 
 - Fast-forward：
+
 
 ### 代码放置
     - workspace[working tree]

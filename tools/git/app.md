@@ -28,4 +28,7 @@ git fetch --all && git reset --hard origin/master && git pull
 - 分支状态
        
 - 创建分支
-    - 
+    - git push -b branch_name
+
+- 分支提交记录
+    
