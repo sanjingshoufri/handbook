@@ -6,4 +6,3 @@
 - git reset;       //
 
 - git fetch;       //
-

@@ -31,4 +31,3 @@ git fetch --all && git reset --hard origin/master && git pull
     - git push -b branch_name
 
 - 分支提交记录
-    
