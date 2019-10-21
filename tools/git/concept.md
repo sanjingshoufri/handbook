@@ -6,8 +6,6 @@
     - 
     - 
 
-- ORIGIN：远程
-
 ### 版本库：
 > 如何理解一个版本?
 
@@ -15,21 +13,16 @@
 - Fast-forward：
 
 
-
-### 代码放置
-    - workspace[working tree]
-    - stage，index，git add
-    - branch，git commit
-
-
 ## git流
 - 
 - 
 
 ## git文件结构
-- Refs
+- refs
 > git引用，存储本地分支、远程分支和一些备注tag。
 
+- objects
+> git是kv数据存储。
 
 
 ## git是如何存储数据的?
