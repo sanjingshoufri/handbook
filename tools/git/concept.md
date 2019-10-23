@@ -1,6 +1,8 @@
 # 相关概念
 
 ## 理解概念
+- version：
+
 - HEAD：指针
     - detached head，是一种HEAD指针指向了某一个具体的 commit id，而不是分支的情况。 
 
