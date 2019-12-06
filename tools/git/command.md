@@ -6,3 +6,6 @@
 
 
 - git fetch;       //
+
+- git clone;       //克隆一个ref源.
+    - 使用SSH和HTTPS方式的不同.
