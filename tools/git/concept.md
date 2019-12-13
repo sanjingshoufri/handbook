@@ -1,9 +1,9 @@
 # 相关概念
 
 ## 理解概念
-- version：
+- version(版本)
 
-- HEAD：指针
+- HEAD(指针)
     - detached head，是一种HEAD指针指向了某一个具体的 commit id，而不是分支的情况。 
 
 - INDEX(索引)
@@ -23,3 +23,4 @@
 > git rm -r --cached .
 > git add .
 > git commit -m 'update .gitignore'
+
