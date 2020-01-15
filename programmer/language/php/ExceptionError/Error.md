@@ -6,3 +6,9 @@
 ### Error type
 - System 
 - User
+
+### 总结
+1. 一个PHP应用程序的对于错误的控制一般由哪些项构成的?
+- php.ini(php-fpm) -> display_errors，如果这项没有打开，php脚本将没有任何输出.
+- 
+
