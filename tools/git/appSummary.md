@@ -6,3 +6,7 @@
     - 如何给主机赋予git操作权限?
         - 配置客户端私钥，然后上传到服务器.
         - cd ~/.ssh 
+
+
+## 总结
+1. ssh -T git@github.com      //查看git是否连通GitHub的server

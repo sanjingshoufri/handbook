@@ -1,5 +1,4 @@
 # 相关概念
-
 ## 理解概念
 - version(版本)
 
@@ -24,3 +23,8 @@
 > git add .
 > git commit -m 'update .gitignore'
 
+## 配置
+### 代理
+#### 相关指令
+git config --global http.proxy               //设置代理
+git config --global --unset http.proxy       //删除代理
