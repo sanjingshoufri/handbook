@@ -28,3 +28,6 @@
 应用层协议：HTTP协议
 传输层协议：TCP协议
 
+## 存储
+### 缓存
+git config --global http.postBuffer 1410065407   //设置内存
