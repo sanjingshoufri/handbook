@@ -12,6 +12,9 @@
 - git checkout     //切换分支或者恢复工作区的文件
     - git checkout -b|-B <new_branch>;   //创建一个新的分支
 
-- git fetch        //    
+- git fetch            //    
 
-- git reset        //重置当前的HEAD为指定状态
+- git reset            //重置当前的HEAD为指定状态
+
+## 存储
+- git count-objects    //计算解压缩的对象数及其磁盘消耗
