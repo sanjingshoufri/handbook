@@ -9,4 +9,4 @@
 1. FETCH [[NEXT] FROM] cursor_name INTO var_name [, var_name] ...
 获取cursor数据集的下一行记录，然后将cursor推前一次.如果这行记录存在，则将
 
-2. 
+2. OPEN cursor_name
