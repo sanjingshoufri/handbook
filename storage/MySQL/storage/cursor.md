@@ -10,3 +10,5 @@
 获取cursor数据集的下一行记录，然后将cursor推前一次.如果这行记录存在，则将
 
 2. OPEN cursor_name
+
+3. CLOSE cursor_name
