@@ -1,15 +1,10 @@
 # SQL优化
 
-## 需要优化的场景
-> 回想在程序里用到过的SQL操作.单用户和多用户(管理系统).
+## 工具
+### explain
+查询执行计划(解释如何执行一个查询)
 
-### 多用户
-- 多表join + order by
-- group by + aggregation-operation [ + join ]
+## 慢事务追踪
 
-### 单用户
-多表join + update
 
-### 工具
-- explain
-- 慢日志
+## SQL慢日志
