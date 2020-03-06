@@ -7,8 +7,14 @@
     - ref，与索引比较的列
     - key，实际上被选中的索引
     - filtered，被表条件过滤的百分数
+    - extra，MySQL如何解析查询
+        - Using filesort    根据join的类型
+        - Using index       
 
 ## 慢事务追踪
 
 
 ## SQL慢日志
+
+### SQL语句优化
+#### ORDER_BY
