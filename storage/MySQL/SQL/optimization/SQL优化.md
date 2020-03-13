@@ -18,3 +18,4 @@
 
 ### SQL语句优化
 #### ORDER_BY
+LIMIT语句会影响到Order by的排序.
