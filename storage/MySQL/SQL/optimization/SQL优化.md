@@ -20,3 +20,4 @@
 ### SQL语句优化
 #### ORDER_BY
 LIMIT语句会影响到Order by的排序.
+- 使用INDEX可以避免ORDER_BY做FILE_SORT
