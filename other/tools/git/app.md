@@ -12,7 +12,7 @@
 git fetch --all && git reset --hard origin/master && git pull
 
 - 版本回退
-git reset 
+git reset --hard     //本地分支回退
 
 - 强制push到远程分支
 git push -f origin develop:pro
