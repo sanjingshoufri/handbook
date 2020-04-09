@@ -1,7 +1,11 @@
 # 理论
 ## git文件结构
 ### refs
-git引用，
+- git引用
+理论上我们只要核对
+
+- HEAD引用，
+
 
 ### objects
 git是kv数据存储。
@@ -16,7 +20,7 @@ git保存的是一些列的文件快照。
 ## 配置
 设置库或者全局属性
 ### 相关文件
-- gitconfig，/etc/gitconfig，所有的配置项
+- gitconfig，/etc/gitconfig，所有的配置项.
 
 
 ## 权限
@@ -34,4 +38,3 @@ git的对象类型是树对象(tree object)，它能解决文件名保存的问�
 
 ### 缓存
 git config --global http.postBuffer 1410065407   //设置内存
-
