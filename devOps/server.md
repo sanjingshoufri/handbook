@@ -18,5 +18,8 @@
 #### Apdex
 Apdex(Application performance Index)，Apdex定义了应用响应时间的最优门槛()
 
-#### 接口调用记录
-记录接口调用的次数和时间消耗.
+
+
+## 排查手段
+### 接口调用记录
+- 记录接口调用的次数.
