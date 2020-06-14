@@ -4,6 +4,6 @@
 coupling/dependency，是指一程序中，模块及模块之间的信息或参数依赖的程度.
 
 ### 内聚力
-cohesion，
+cohesion，机能相关的程序组合成一模块的程度.
 
 ### 代码覆盖率
