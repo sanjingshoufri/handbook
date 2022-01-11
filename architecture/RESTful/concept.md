@@ -6,4 +6,4 @@
 
 
 ## 备注
-- 当使用PUT方法时，不能使用form-data格式的http-body，而要使用www-enurl编码.
+- 当使用PUT方法时，不能使用form-data格式的http-body，而要使用www-enurl编码

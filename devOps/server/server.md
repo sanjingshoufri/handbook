@@ -4,25 +4,25 @@
 ## 资源
 ### CPU
 - PHP进程对CPU的占用过高
-1. 定位哪些语句占用CPU
-2. 常见的优化方法?
-3. 如何测量CPU的消耗?
+	- 定位哪些语句占用CPU
+	- 常见的优化方法?
+	- 如何测量CPU的消耗?
 
 ### MEMORY
-内存占用越多，CPU的消耗也越多
+- 内存占用越多，CPU的消耗也越多
 
 ### 相关指标
 #### 服务器响应时间
-1. Redis响应时间
-2. 外部服务时间
-3. 数据库调用时间
-4. 应用层时间
-5. 阻塞时间
+- Redis响应时间
+- 外部服务时间
+- 数据库调用时间
+- 应用层时间
+- 阻塞时间
 
 #### 错误率
 
 #### Apdex
-Apdex(Application performance Index)，Apdex定义了应用响应时间的最优门槛()
+- Apdex(Application performance Index)，Apdex定义了应用响应时间的最优门槛
 
 
 
