@@ -1,5 +1,5 @@
 # 概念
-- SLA:service level agreement，服务等级协议，来衡量系统的稳定性.
+- SLA:service level agreement，服务等级协议，来衡量系统的稳定性
 
 # 单服务稳定性
 ## 禁用设计
