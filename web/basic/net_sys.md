@@ -1,7 +1,4 @@
-# 网络系统
-## 概念
-- 吞吐量
-	- 每秒能够传输的数据量
+# 概念
 - URI
 	- Uniform Resource Identifier
 - URN	
